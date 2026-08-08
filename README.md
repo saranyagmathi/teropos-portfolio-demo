@@ -40,3 +40,9 @@ This public repository contains only:
 - Technical decisions and troubleshooting examples
 
 Production credentials, customer data, deployment details and core commercial business logic are intentionally excluded.
+
+## Live Demonstration
+
+Public product website: [https://teropos.com](https://teropos.com)
+
+The production source code, administrative access and credentials are not publicly available.
