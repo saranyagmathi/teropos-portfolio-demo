@@ -43,6 +43,6 @@ Production credentials, customer data, deployment details and core commercial bu
 
 ## Live Demonstration
 
-Public product website: [https://teropos.com](https://teropos.com)
+Public product website: [https://app.teropos.com](https://app.teropos.com)
 
 The production source code, administrative access and credentials are not publicly available.
