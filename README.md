@@ -1,4 +1,4 @@
-# TeroPOS - Selected Technical Portfolio: https://app.teropos.com
+# TeroPOS - Selected Technical Portfolio
 
 This repository presents a limited and sanitised overview of TeroPOS, a full-stack point-of-sale application developed and deployed by Saranya Gunasekaram.
 
