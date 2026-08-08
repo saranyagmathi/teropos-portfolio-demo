@@ -46,3 +46,11 @@ Production credentials, customer data, deployment details and core commercial bu
 Public product website: [https://app.teropos.com](https://app.teropos.com)
 
 The production source code, administrative access and credentials are not publicly available.
+
+## Interface Preview
+
+The screenshots below use demonstration data.
+
+| POS checkout | Dashboard reporting | Product management |
+|---|---|---|
+| ![TeroPOS checkout with mixed payment](screenshots/01-pos-checkout-demo.jpeg) | ![TeroPOS dashboard reporting](screenshots/02-dashboard-demo.jpeg) | ![TeroPOS product and inventory management](screenshots/03-product-management-demo.jpeg) |
